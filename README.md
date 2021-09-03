@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Kaique Yamamoto
+## Eu sou o Kaique Yamamoto
  <div>
   <a href="https://github.com/kaiqueyamamotoredblock">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiqueyamamotoredblock&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
